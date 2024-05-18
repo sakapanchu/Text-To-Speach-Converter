@@ -22,8 +22,7 @@ How to Use
  <li> Select a voice from the dropdown menu.</li> 
  <li> Click the "Speech" button to listen to the text as speech.</li> 
 </ul>
-<br>
+<be>
 
-Screenshots
-![Capture](https://github.com/coops15/Text-to-speach-converter/assets/137200668/ec5d0487-eb5f-4216-9e50-e204bbd87544)
+<img src = "C:\Users\Pc\Pictures\Screenshots\Screenshot 2024-05-18 202824.png"
 
