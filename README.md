@@ -24,5 +24,5 @@ How to Use
 </ul>
 <be>
 
-<img src = "C:\Users\Pc\Pictures\Screenshots\Screenshot 2024-05-18 202824.png"
+<img src = "C:\Users\Pc\Pictures\Screenshots\Screenshot 2024-05-18 202824.png">
 
